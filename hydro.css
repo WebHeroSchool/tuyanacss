@@ -1,0 +1,40 @@
+* {
+  font-family: 'Pacifico', cursive;
+}
+h1 {
+  text-align: center;
+  font-family: 'Girassol', cursive;
+}
+h3 {
+  color: red;
+}
+.nav__link {
+  padding: 5px;
+}
+.header__text {
+  text-align: center;
+}
+#quote {
+  color: purple;
+}
+#activities {
+  text-decoration: underline;
+}
+a[href] {
+  color: green;
+}
+blockquote, h3 {
+  border: 3px dotted red;
+}
+section p {
+  font-weight: bold;
+}
+footer > p {
+  background-color: purple;
+}
+.footer__subtitle + .text {
+  font-family: Arial, sans-serif;
+}
+header ~ section {
+  background-color: yellow;
+}
